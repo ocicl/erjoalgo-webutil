@@ -2,9 +2,8 @@
 
 (wip) Common utilities for developing web applications in common lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/erjoalgo/erjoalgo-webutil.git   |
-| commit  | {"messa  |
-| systems | erjoalgo-webutil |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/erjoalgo/erjoalgo-webutil.git |
+| commit  | 8addbe3                                              |
+| systems | erjoalgo-webutil                                     |
+|---------+------------------------------------------------------|
