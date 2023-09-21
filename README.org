@@ -4,6 +4,6 @@
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/erjoalgo/erjoalgo-webutil.git |
-| commit  | 8addbe3                                              |
+| commit  | 8a5bca1                                              |
 | systems | erjoalgo-webutil                                     |
 |---------+------------------------------------------------------|
